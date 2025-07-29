@@ -5,7 +5,7 @@ import Knex from "knex";
 import knexConfig from "./knexfile.cjs";
 import cors from "@fastify/cors";
 
-const JWT_SECRET = "1f9276ac3d82c39bb82e06020a9b5eaf";
+const JWT_SECRET = process.env.JWT_SECRET;
 
 const db = Knex(knexConfig.development);
 

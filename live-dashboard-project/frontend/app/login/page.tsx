@@ -4,8 +4,8 @@ import { useState } from "react";
 import { useRouter } from "next/navigation";
 
 export default function LoginPage() {
-  const [username, setUsername] = useState("alwan"); // Nilai default untuk kemudahan
-  const [password, setPassword] = useState("password123"); // Nilai default untuk kemudahan
+  const [username, setUsername] = useState("alwan");
+  const [password, setPassword] = useState("password123");
   const [error, setError] = useState("");
   const router = useRouter();
 
