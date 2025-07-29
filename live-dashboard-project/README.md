@@ -2,11 +2,9 @@
 
 Sebuah aplikasi web full-stack yang menampilkan metrik sistem (CPU & Logs) secara real-time menggunakan arsitektur modern. Proyek ini dibangun untuk mendemonstrasikan implementasi WebSockets, autentikasi JWT, dan interaksi database dalam satu aplikasi yang utuh.
 
-**[➡️ Lihat Live Demo](https://URL_FRONTEND_VERCEL_ANDA)**
-
 ---
 
-![Live Dashboard Screenshot](https://i.imgur.com/Kz3Z6sS.png)
+![Live Dashboard Screenshot](https://ibb.co/rGmjVSSB)
 _(Tips: Ganti URL gambar di atas dengan screenshot proyek Anda sendiri)_
 
 ---
