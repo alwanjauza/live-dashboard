@@ -2,13 +2,6 @@
 
 Sebuah aplikasi web full-stack yang menampilkan metrik sistem (CPU & Logs) secara real-time menggunakan arsitektur modern. Proyek ini dibangun untuk mendemonstrasikan implementasi WebSockets, autentikasi JWT, dan interaksi database dalam satu aplikasi yang utuh.
 
----
-
-![Live Dashboard Screenshot](https://ibb.co/rGmjVSSB)
-_(Tips: Ganti URL gambar di atas dengan screenshot proyek Anda sendiri)_
-
----
-
 ## ## Fitur Utama
 
 - **🔐 Autentikasi Pengguna Aman:** Sistem login yang dilindungi dengan password hashing (Bcrypt) dan otorisasi berbasis **JSON Web Tokens (JWT)**.
